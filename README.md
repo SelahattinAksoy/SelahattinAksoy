@@ -22,7 +22,7 @@
 <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okuyanf61&layout=compact&theme=chartreuse-dark" alt="okuyanf61" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selahattinaksoy&layout=compact&theme=chartreuse-dark" alt="okuyanf61" /></p>
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=selahattinaksoy&show_icons=true&theme=chartreuse-dark" alt="okuyanf61" /></p>
 
