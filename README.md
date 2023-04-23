@@ -1,16 +1,5 @@
 
-Hi wave, I'm Mehmet Fatih
-telescope I’m currently working on Mobile Application Development
-
-seedling I’m currently learning Bootstrap, UX/UI, Kotlin
-
-memo I rarely write articles on mehmetfatih.com
-
-mailbox Contact me mehmetfatihokuyan@gmail.com
-
-android Java python git linux mysql php wordpress django illustrator
-
-okuyanf61
+###Hi I'm Selahattin
 
 
 <!--
